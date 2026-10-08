@@ -1,10 +1,12 @@
 <!-- ========================================================= -->
 <!--                 NISHIKA CHAWLA — PROFILE                  -->
-<!--        Dark Galaxy / Neon Developer Dashboard             -->
+<!--      Dark Galaxy • Cozy Developer • Full-Stack            -->
 <!-- ========================================================= -->
 
 
-<!-- ========================= HERO ========================== -->
+<!-- ============================= -->
+<!-- HERO                          -->
+<!-- ============================= -->
 
 <p align="center">
   <img
@@ -17,34 +19,36 @@
 <br>
 
 
-<!-- ===================== SOCIAL BAR ======================== -->
+<!-- ============================= -->
+<!-- SOCIAL NAVIGATION             -->
+<!-- ============================= -->
 
 <p align="center">
 
   <a href="YOUR_LINKEDIN_URL">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=72DAE8"
+      src="https://img.shields.io/badge/LinkedIn-0D1226?style=for-the-badge&logo=linkedin&logoColor=72DAE8"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:nishikachawla.devhub@gmail.com">
     <img
-      src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=A78BFA"
+      src="https://img.shields.io/badge/Email-0D1226?style=for-the-badge&logo=gmail&logoColor=B5A8F5"
       alt="Email"
     />
   </a>
 
   <a href="./resume.pdf">
     <img
-      src="https://img.shields.io/badge/RESUME-0B1020?style=for-the-badge&logo=readme&logoColor=72DAE8"
+      src="https://img.shields.io/badge/Resume-0D1226?style=for-the-badge&logo=readme&logoColor=72DAE8"
       alt="Resume"
     />
   </a>
 
   <a href="YOUR_PORTFOLIO_URL">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=A78BFA"
+      src="https://img.shields.io/badge/Portfolio-0D1226?style=for-the-badge&logo=vercel&logoColor=D99A68"
       alt="Portfolio"
     />
   </a>
@@ -53,15 +57,23 @@
 
 <br>
 
+<p align="center">
+  <sub>✦ Pune, India · Building for the web · Open to opportunities ✦</sub>
+</p>
 
-<!-- ====================== ABOUT ============================ -->
+<br>
+
+
+<!-- ========================================================= -->
+<!-- ABOUT                                                     -->
+<!-- ========================================================= -->
 
 <h2 align="center">
-  ✦  ABOUT ME  ✦
+  ✦ ABOUT ME ✦
 </h2>
 
 <p align="center">
-  <sub>Computer Science • Full-Stack Development • Applied AI</sub>
+  <sub>Computer Science · Full-Stack Development · Applied AI</sub>
 </p>
 
 <br>
@@ -71,34 +83,190 @@
 
 <td width="62%" valign="middle">
 
-### Hey, I'm Nishika 👋
+### Hi, I'm Nishika.
 
-I'm a **final-year Computer Science Engineering student** who enjoys turning ideas into real, usable products.
+I'm a **final-year Computer Science Engineering student** focused on building practical, user-facing software.
 
-I build full-stack applications with **React, Next.js, Node.js and MongoDB**, while exploring how AI can be applied to practical software products.
+I work across the full stack with **React, Next.js, Node.js and MongoDB**, and I'm exploring **applied AI and computer vision** to build more intelligent products.
 
-I'm interested in **software engineering, full-stack development and building products that solve real problems.**
+I enjoy taking ideas from **concept → implementation → deployment**, while continuously improving how I design, build and ship software.
 
 <br>
 
 **Open to**
 
-`SWE Internships` · `Full-Time Roles` · `Full-Stack` · `Software Engineering`
+`Software Engineering` · `Full-Stack` · `Internships` · `Full-Time Roles`
+
+<br><br>
+
+<sub>Currently based in Pune · Open to global opportunities</sub>
 
 </td>
 
 <td width="38%" align="center">
 
 <!--
-  YOUR COZY ANIME ILLUSTRATION
-  Upload later as:
+  LARGE CHARACTER / COZY CODING ILLUSTRATION
+
+  File:
   assets/about-anime.png
 -->
 
 <img
   src="./assets/about-anime.png"
-  width="260"
-  alt="Nishika coding illustration"
+  width="270"
+  alt="Cozy anime developer illustration"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>✦ turning ideas into things people can actually use ✦</sub>
+</p>
+
+<br><br>
+
+
+<!-- ========================================================= -->
+<!-- TECH STACK                                                 -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  ✦ TECH STACK ✦
+</h2>
+
+<p align="center">
+  <sub>The tools I use to build and ship.</sub>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<!-- Illustration column -->
+
+<td width="25%" align="center" valign="middle">
+
+<!--
+  SMALL FLOATING DEVELOPER / SPACE ILLUSTRATION
+
+  File:
+  assets/stack-anime.png
+-->
+
+<img
+  src="./assets/stack-anime.png"
+  width="150"
+  alt="Developer illustration"
+/>
+
+</td>
+
+<td width="75%" valign="middle">
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite" />
+</p>
+
+### Languages & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,opencv" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <sub>
+    React Native · Expo · Framer Motion · Sanity CMS · REST APIs · SQL
+  </sub>
+</p>
+
+<br><br>
+
+
+<!-- ========================================================= -->
+<!-- FEATURED PROJECTS                                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  ✦ FEATURED PROJECTS ✦
+</h2>
+
+<p align="center">
+  <sub>A selection of things I've built.</sub>
+</p>
+
+<br>
+
+
+<!-- PROJECT 01 -->
+
+<table>
+<tr>
+
+<td width="68%" valign="middle">
+
+### Pictogram
+
+**Full-Stack Social Platform**
+
+A social networking application focused on authentication, content creation, image uploads and a dynamic feed experience.
+
+<br>
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+<br><br>
+
+<a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
+  <img
+    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
+    alt="View Pictogram repository"
+  />
+</a>
+
+</td>
+
+<td width="32%" align="center">
+
+<!--
+  PROJECT ILLUSTRATION
+  File:
+  assets/pictogram.png
+-->
+
+<img
+  src="./assets/pictogram.png"
+  width="190"
+  alt="Pictogram project illustration"
 />
 
 </td>
@@ -109,62 +277,49 @@ I'm interested in **software engineering, full-stack development and building pr
 <br>
 
 
-<!-- ===================== TECH STACK ======================== -->
-
-<h2 align="center">
-  ✦  TECH STACK  ✦
-</h2>
-
-<p align="center">
-  <sub>Technologies I use to build and ship.</sub>
-</p>
-
-<br>
+<!-- PROJECT 02 -->
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="32%" align="center">
 
-### ◈ Frontend
+<!--
+  PROJECT ILLUSTRATION
+  File:
+  assets/dietlab.png
+-->
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlite" />
-</p>
+<img
+  src="./assets/dietlab.png"
+  width="190"
+  alt="DietLab project illustration"
+/>
 
 </td>
 
-</tr>
+<td width="68%" valign="middle">
 
-<tr>
+### DietLab
 
-<td width="50%" valign="top">
+**Nutrition Consulting Platform**
 
-### ◈ Languages & AI
+A production-oriented web platform with reusable UI components, animations and a content publishing workflow for recipes and articles.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,opencv" />
-</p>
+<br>
 
-</td>
+**Stack**
 
-<td width="50%" valign="top">
+`Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
-### ◈ Tools
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,gcp" />
-</p>
+<a href="YOUR_DIETLAB_REPO_URL">
+  <img
+    src="https://img.shields.io/badge/VIEW%20REPOSITORY-8F82E8?style=for-the-badge&logo=github&logoColor=080A14"
+    alt="View DietLab repository"
+  />
+</a>
 
 </td>
 
@@ -174,112 +329,97 @@ I'm interested in **software engineering, full-stack development and building pr
 <br>
 
 
-<!-- ================= FEATURED PROJECTS ===================== -->
-
-<h2 align="center">
-  ✦  FEATURED PROJECTS  ✦
-</h2>
-
-<p align="center">
-  <sub>Selected projects I've built.</sub>
-</p>
-
-<br>
+<!-- PROJECT 03 -->
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="68%" valign="middle">
 
-### ◈ Pictogram
-
-**Full-Stack Social Platform**
-
-A social networking application with authentication, posts, image uploads and a dynamic feed.
-
-<br>
-
-`React` `Node.js` `Express` `MongoDB`
-
-<br><br>
-
-<a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
-  <img
-    src="https://img.shields.io/badge/%20VIEW%20CODE%20-72DAE8?style=for-the-badge&logo=github&logoColor=080A12"
-    alt="View code"
-  />
-</a>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-### ◈ DietLab
-
-**Nutrition Consulting Platform**
-
-A responsive platform with reusable components, animations and a recipe/blog publishing system.
-
-<br>
-
-`Next.js` `React` `Tailwind` `Node.js` `MongoDB`
-
-<br><br>
-
-<a href="YOUR_DIETLAB_REPO_URL">
-  <img
-    src="https://img.shields.io/badge/%20VIEW%20PROJECT%20-A78BFA?style=for-the-badge&logo=vercel&logoColor=080A12"
-    alt="View project"
-  />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ◈ Telemedicine Platform
+### Telemedicine Platform
 
 **Healthcare Application Prototype**
 
-A prototype exploring digital healthcare access through consultations and patient-focused features.
+A prototype exploring digital healthcare access through consultations, patient records and supporting healthcare workflows.
 
 <br>
 
-`React` `Node.js` `MongoDB`
+**Stack**
+
+`React Native` `Expo` `Node.js` `MongoDB`
 
 <br><br>
 
 <a href="https://github.com/nishikachawladevhub-stack/Telemed-prototype">
   <img
-    src="https://img.shields.io/badge/%20VIEW%20CODE%20-72DAE8?style=for-the-badge&logo=github&logoColor=080A12"
-    alt="View code"
+    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
+    alt="View Telemedicine repository"
   />
 </a>
 
 </td>
 
+<td width="32%" align="center">
 
-<td width="50%" valign="top">
+<!--
+  PROJECT ILLUSTRATION
+  File:
+  assets/telemedicine.png
+-->
 
-### ◈ AI Traffic Management
+<img
+  src="./assets/telemedicine.png"
+  width="190"
+  alt="Telemedicine project illustration"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
+<!-- UPCOMING PROJECT -->
+
+<table>
+<tr>
+
+<td width="32%" align="center">
+
+<!--
+  FUTURE / AI ILLUSTRATION
+  File:
+  assets/traffic-ai.png
+-->
+
+<img
+  src="./assets/traffic-ai.png"
+  width="180"
+  alt="AI traffic project illustration"
+/>
+
+</td>
+
+<td width="68%" valign="middle">
+
+### AI Traffic Management
 
 **Upcoming Flagship Project**
 
-AI-based traffic management exploring vehicle detection, traffic density analysis and adaptive signal management.
+An AI-based traffic management system exploring vehicle detection, traffic-density analysis and intelligent signal management.
 
 <br>
+
+**Planned stack**
 
 `Python` `OpenCV` `YOLO` `Machine Learning`
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/COMING%20SOON-6D5DD3?style=for-the-badge&logoColor=ffffff"
+  src="https://img.shields.io/badge/COMING%20SOON-151B35?style=for-the-badge&logoColor=B5A8F5"
   alt="Coming soon"
 />
 
@@ -288,68 +428,112 @@ AI-based traffic management exploring vehicle detection, traffic density analysi
 </tr>
 </table>
 
-<br>
+<br><br>
 
 
-<!-- ===================== EXPERIENCE ======================= -->
+<!-- ========================================================= -->
+<!-- EXPERIENCE                                                -->
+<!-- ========================================================= -->
 
 <h2 align="center">
-  ✦  EXPERIENCE  ✦
+  ✦ EXPERIENCE ✦
 </h2>
 
 <p align="center">
-  <sub>Real-world development experience.</sub>
+  <sub>Professional development experience.</sub>
 </p>
 
 <br>
 
 <table>
-
 <tr>
-<td width="100%">
 
-### ◈ Web Development Intern — DietLab
+<td width="75%" valign="middle">
+
+### Web Development Intern — DietLab
 
 `Remote` · `Dec 2025 — Jun 2026`
 
-- Built a responsive nutrition consulting website with reusable components and interactive sections.
-- Created a recipe and blog publishing workflow for independent content management.
-- Worked across frontend development, backend integration and content management.
+- Built and maintained a responsive nutrition consulting platform with reusable components and interactive sections.
+- Developed a recipe and blog publishing workflow for independent content management.
+- Contributed across frontend development, backend integration and content management.
+
+<br>
 
 `Next.js` `React` `Tailwind CSS` `Framer Motion` `Node.js` `MongoDB`
 
 </td>
+
+<td width="25%" align="center">
+
+<!--
+  EXPERIENCE ILLUSTRATION
+  File:
+  assets/experience-desk.png
+-->
+
+<img
+  src="./assets/experience-desk.png"
+  width="150"
+  alt="Developer workspace illustration"
+/>
+
+</td>
+
 </tr>
 
-<tr>
-<td width="100%">
 
-### ◈ Web Development Intern — FootFlex
+<tr>
+
+<td width="25%" align="center">
+
+<!--
+  EXPERIENCE ILLUSTRATION
+  File:
+  assets/experience-code.png
+-->
+
+<img
+  src="./assets/experience-code.png"
+  width="150"
+  alt="Coding illustration"
+/>
+
+</td>
+
+<td width="75%" valign="middle">
+
+### Web Development Intern — FootFlex
 
 `Remote` · `Oct 2025 — Dec 2025`
 
 - Built a responsive B2B marketing website for a Dubai-based startup.
-- Developed product and category experiences with lead-generation flows.
+- Developed product and category experiences with search and lead-generation workflows.
 - Contributed to internal tools for managing product and inquiry information.
+
+<br>
 
 `Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
 </td>
+
 </tr>
 
 </table>
 
-<br>
+<br><br>
 
 
-<!-- ================= DEVELOPER DASHBOARD ================== -->
+<!-- ========================================================= -->
+<!-- GITHUB DASHBOARD                                           -->
+<!-- ========================================================= -->
 
 <h2 align="center">
-  ✦  DEVELOPER DASHBOARD  ✦
+  ✦ DEVELOPER DASHBOARD ✦
 </h2>
 
 <p align="center">
-  <sub>A live snapshot of my GitHub activity.</sub>
+  <sub>A snapshot of my GitHub activity.</sub>
 </p>
 
 <br>
@@ -357,13 +541,13 @@ AI-based traffic management exploring vehicle detection, traffic density analysi
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=nishikachawladevhub-stack&show_icons=true&hide_border=true&bg_color=080A16&title_color=72DAE8&text_color=E7E5F7&icon_color=A78BFA"
+  src="https://github-readme-stats.vercel.app/api?username=nishikachawladevhub-stack&show_icons=true&hide_border=true&bg_color=080A14&title_color=72DAE8&text_color=E7E5F7&icon_color=8F82E8&rank_icon=github"
   height="165"
   alt="GitHub statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikachawladevhub-stack&layout=compact&hide_border=true&bg_color=080A16&title_color=72DAE8&text_color=E7E5F7"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikachawladevhub-stack&layout=compact&hide_border=true&bg_color=080A14&title_color=72DAE8&text_color=E7E5F7"
   height="165"
   alt="Most used languages"
 />
@@ -373,21 +557,18 @@ AI-based traffic management exploring vehicle detection, traffic density analysi
 <br>
 
 
-<!-- ===================== ACTIVITY ========================= -->
-
-<h2 align="center">
-  ✦  ACTIVITY  ✦
-</h2>
+<!-- ========================= ACTIVITY ========================= -->
 
 <p align="center">
-  <sub>Building consistently, one commit at a time.</sub>
+  <sub>Contribution activity</sub>
 </p>
 
 <br>
 
 <!--
-  CONTRIBUTION SNAKE
-  We'll generate this later using GitHub Actions.
+  ADD AFTER GITHUB ACTION IS CONFIGURED
+
+  assets/github-contribution-grid-snake.svg
 -->
 
 <p align="center">
@@ -400,66 +581,133 @@ AI-based traffic management exploring vehicle detection, traffic density analysi
 
 </p>
 
-<br>
+<br><br>
 
 
-<!-- ================= CURRENTLY LEARNING ==================== -->
-
-<h2 align="center">
-  ✦  CURRENTLY LEARNING  ✦
-</h2>
-
-<p align="center">
-  <sub>Things I'm exploring right now.</sub>
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/APPLIED_AI-080A16?style=for-the-badge&logoColor=72DAE8" />
-
-<img src="https://img.shields.io/badge/COMPUTER_VISION-080A16?style=for-the-badge&logoColor=A78BFA" />
-
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-080A16?style=for-the-badge&logoColor=72DAE8" />
-
-<img src="https://img.shields.io/badge/PRODUCTION_DEVELOPMENT-080A16?style=for-the-badge&logoColor=A78BFA" />
-
-</p>
-
-<br>
-
-
-<!-- ===================== CONNECT =========================== -->
+<!-- ========================================================= -->
+<!-- CURRENTLY LEARNING                                        -->
+<!-- ========================================================= -->
 
 <h2 align="center">
-  ✦  LET'S CONNECT  ✦
+  ✦ CURRENTLY LEARNING ✦
 </h2>
-
-<p align="center">
-  <sub>Always open to interesting products, teams and opportunities.</sub>
-</p>
 
 <br>
 
-<p align="center">
+<table>
+<tr>
+
+<td width="70%" valign="middle">
+
+### Exploring next
+
+I'm currently deepening my understanding of:
+
+<br>
+
+`Applied AI`
+
+`Computer Vision`
+
+`System Design`
+
+`Production Engineering`
+
+<br>
+
+with the goal of building software that is not only functional, but **reliable, scalable and genuinely useful.**
+
+</td>
+
+<td width="30%" align="center">
+
+<!--
+  SMALL GALAXY / MOON / LAPTOP ILLUSTRATION
+
+  File:
+  assets/learning.png
+-->
+
+<img
+  src="./assets/learning.png"
+  width="170"
+  alt="Learning illustration"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+
+<!-- ========================================================= -->
+<!-- CONNECT                                                   -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  ✦ LET'S CONNECT ✦
+</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<!--
+  CLOSING ILLUSTRATION
+
+  File:
+  assets/connect-anime.png
+-->
+
+<img
+  src="./assets/connect-anime.png"
+  width="190"
+  alt="Cozy developer illustration"
+/>
+
+</td>
+
+<td width="65%" valign="middle">
+
+### Have an interesting product or problem to solve?
+
+I'm always open to connecting with **developers, founders, teams and recruiters** working on interesting products.
+
+<br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A16" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:nishikachawla.devhub@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=080A16" />
+  <img
+    src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14"
+    alt="Email"
+  />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D5DD3?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14"
+    alt="Portfolio"
+  />
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <p align="center">
-  <sub>✦ Build something meaningful. ✦</sub>
+  <sub>✦ Build · Learn · Ship ✦</sub>
 </p>
