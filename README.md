@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                 NISHIKA CHAWLA — PROFILE                  -->
 <!--        DARK GALAXY • FULL-STACK • APPLIED AI              -->
@@ -16,6 +15,7 @@
 </p>
 
 <br>
+
 
 <!-- ======================== SOCIAL BAR ========================== -->
 
@@ -58,8 +58,6 @@
 <!-- ABOUT                                                         -->
 <!-- ============================================================= -->
 
-<!-- CUSTOM ABOUT HEADER WILL GO HERE -->
-
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
 <p align="center">
@@ -91,9 +89,16 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 
 <td width="38%" align="center">
 
-<!-- ABOUT ILLUSTRATION WILL GO HERE -->
+<!-- ABOUT ILLUSTRATION
+     Add later:
+     ./assets/about.png
+-->
 
-[ ABOUT ILLUSTRATION ]
+<img
+  src="./assets/about.png"
+  width="270"
+  alt="Cozy anime developer illustration"
+/>
 
 </td>
 
@@ -102,12 +107,83 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 
 <br>
 
+<p align="center">
+  <sub>✦ turning ideas into things people can actually use ✦</sub>
+</p>
+
+<br><br>
+
+
+<!-- ============================================================= -->
+<!-- CONNECT                                                       -->
+<!-- ============================================================= -->
+
+<h2 align="center">✦ LET'S CONNECT ✦</h2>
+
+<p align="center">
+  <sub>Open to interesting products, teams and software engineering opportunities.</sub>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<!-- CONNECT ILLUSTRATION
+     Add later:
+     ./assets/connect.png
+-->
+
+<img
+  src="./assets/connect.png"
+  width="190"
+  alt="Cozy developer illustration"
+/>
+
+</td>
+
+<td width="65%" valign="middle">
+
+### Have an interesting problem to solve?
+
+I'm always open to connecting with **developers, founders, teams and recruiters** working on interesting products.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:nishikachawla.devhub@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14"
+    alt="Email"
+  />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14"
+    alt="Portfolio"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
 
 <!-- ============================================================= -->
 <!-- TECH STACK                                                    -->
 <!-- ============================================================= -->
-
-<!-- CUSTOM STACK HEADER WILL GO HERE -->
 
 <h2 align="center">✦ TECH STACK ✦</h2>
 
@@ -118,113 +194,189 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 <br>
 
 <table>
+
+<!-- LANGUAGES -->
+
 <tr>
 
-<td width="50%" valign="top">
-
-### Frontend
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark&perline=6"
-    alt="Frontend"
-  />
-</p>
-
+<td
+  width="22%"
+  align="center"
+  valign="middle"
+  bgcolor="#0D1226"
+>
+  <b>Languages</b>
 </td>
 
-<td width="50%" valign="top">
+<td
+  width="78%"
+  bgcolor="#080A14"
+>
 
-### Backend
+<img src="https://img.shields.io/badge/JAVASCRIPT-151B35?style=flat-square&logo=javascript&logoColor=72DAE8" alt="JavaScript">
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6"
-    alt="Backend"
-  />
-</p>
+<img src="https://img.shields.io/badge/PYTHON-151B35?style=flat-square&logo=python&logoColor=A78BFA" alt="Python">
+
+<img src="https://img.shields.io/badge/C%2B%2B-151B35?style=flat-square&logo=cplusplus&logoColor=72DAE8" alt="C++">
+
+<img src="https://img.shields.io/badge/HTML5-151B35?style=flat-square&logo=html5&logoColor=D99A68" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-151B35?style=flat-square&logo=css3&logoColor=8F82E8" alt="CSS3">
 
 </td>
 
 </tr>
 
+
+<!-- FRONTEND -->
+
 <tr>
 
-<td width="50%" valign="top">
-
-### Databases
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark&perline=6"
-    alt="Databases"
-  />
-</p>
-
+<td
+  width="22%"
+  align="center"
+  valign="middle"
+  bgcolor="#0D1226"
+>
+  <b>Frontend</b>
 </td>
 
-<td width="50%" valign="top">
+<td
+  width="78%"
+  bgcolor="#0A0D1B"
+>
 
-### Mobile
+<img src="https://img.shields.io/badge/REACT-151B35?style=flat-square&logo=react&logoColor=72DAE8" alt="React">
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=react,expo&theme=dark&perline=6"
-    alt="Mobile"
-  />
-</p>
+<img src="https://img.shields.io/badge/NEXT.JS-151B35?style=flat-square&logo=nextdotjs&logoColor=F1F3FA" alt="Next.js">
+
+<img src="https://img.shields.io/badge/TAILWIND_CSS-151B35?style=flat-square&logo=tailwindcss&logoColor=72DAE8" alt="Tailwind CSS">
+
+<img src="https://img.shields.io/badge/REACT_NATIVE-151B35?style=flat-square&logo=react&logoColor=8F82E8" alt="React Native">
+
+<img src="https://img.shields.io/badge/EXPO-151B35?style=flat-square&logo=expo&logoColor=F1F3FA" alt="Expo">
+
+<img src="https://img.shields.io/badge/FRAMER_MOTION-151B35?style=flat-square&logo=framer&logoColor=B5A8F5" alt="Framer Motion">
 
 </td>
 
 </tr>
 
+
+<!-- BACKEND & DATABASE -->
+
 <tr>
 
-<td width="50%" valign="top">
-
-### Languages & AI
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=python,cpp,opencv&theme=dark&perline=6"
-    alt="Languages and AI"
-  />
-</p>
-
+<td
+  width="22%"
+  align="center"
+  valign="middle"
+  bgcolor="#0D1226"
+>
+  <b>Backend &amp;<br>Database</b>
 </td>
 
-<td width="50%" valign="top">
+<td
+  width="78%"
+  bgcolor="#0A0D1B"
+>
 
-### Tools & Platforms
+<img src="https://img.shields.io/badge/NODE.JS-151B35?style=flat-square&logo=nodedotjs&logoColor=72DAE8" alt="Node.js">
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark&perline=6"
-    alt="Tools"
-  />
-</p>
+<img src="https://img.shields.io/badge/EXPRESS.JS-151B35?style=flat-square&logo=express&logoColor=F1F3FA" alt="Express.js">
+
+<img src="https://img.shields.io/badge/MONGODB-151B35?style=flat-square&logo=mongodb&logoColor=72DAE8" alt="MongoDB">
+
+<img src="https://img.shields.io/badge/SQL-151B35?style=flat-square&logo=postgresql&logoColor=8F82E8" alt="SQL">
+
+<img src="https://img.shields.io/badge/SQLITE-151B35?style=flat-square&logo=sqlite&logoColor=B5A8F5" alt="SQLite">
+
+<img src="https://img.shields.io/badge/REST_APIs-151B35?style=flat-square&logoColor=72DAE8" alt="REST APIs">
 
 </td>
 
 </tr>
+
+
+<!-- AI -->
+
+<tr>
+
+<td
+  width="22%"
+  align="center"
+  valign="middle"
+  bgcolor="#0D1226"
+>
+  <b>AI &amp;<br>Computer Vision</b>
+</td>
+
+<td
+  width="78%"
+  bgcolor="#0A0D1B"
+>
+
+<img src="https://img.shields.io/badge/PYTHON-151B35?style=flat-square&logo=python&logoColor=A78BFA" alt="Python">
+
+<img src="https://img.shields.io/badge/OPENCV-151B35?style=flat-square&logo=opencv&logoColor=72DAE8" alt="OpenCV">
+
+<img src="https://img.shields.io/badge/YOLO-151B35?style=flat-square&logoColor=A78BFA" alt="YOLO">
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-151B35?style=flat-square&logoColor=72DAE8" alt="Machine Learning">
+
+</td>
+
+</tr>
+
+
+<!-- TOOLS -->
+
+<tr>
+
+<td
+  width="22%"
+  align="center"
+  valign="middle"
+  bgcolor="#0D1226"
+>
+  <b>Tools &amp;<br>Platforms</b>
+</td>
+
+<td
+  width="78%"
+  bgcolor="#0A0D1B"
+>
+
+<img src="https://img.shields.io/badge/GIT-151B35?style=flat-square&logo=git&logoColor=D99A68" alt="Git">
+
+<img src="https://img.shields.io/badge/GITHUB-151B35?style=flat-square&logo=github&logoColor=F1F3FA" alt="GitHub">
+
+<img src="https://img.shields.io/badge/POSTMAN-151B35?style=flat-square&logo=postman&logoColor=D99A68" alt="Postman">
+
+<img src="https://img.shields.io/badge/VERCEL-151B35?style=flat-square&logo=vercel&logoColor=F1F3FA" alt="Vercel">
+
+<img src="https://img.shields.io/badge/SANITY-151B35?style=flat-square&logo=sanity&logoColor=F1F3FA" alt="Sanity CMS">
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
 
 <p align="center">
   <sub>
-    Framer Motion · Sanity CMS · REST APIs · SQL · GitHub Actions
+    Full-stack development · Mobile · APIs · Applied AI · Computer Vision
   </sub>
 </p>
 
-<br>
+<br><br>
 
 
 <!-- ============================================================= -->
 <!-- FEATURED PROJECTS                                             -->
 <!-- ============================================================= -->
-
-<!-- CUSTOM PROJECTS HEADER WILL GO HERE -->
 
 <h2 align="center">✦ FEATURED PROJECTS ✦</h2>
 
@@ -233,6 +385,7 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 </p>
 
 <br>
+
 
 <!-- PROJECT 01 -->
 
@@ -264,9 +417,16 @@ A social networking application focused on authentication, content creation, ima
 
 <td width="32%" align="center">
 
-<!-- PROJECT ILLUSTRATION SLOT -->
+<!-- PROJECT ILLUSTRATION
+     Add later:
+     ./assets/projects.png
+-->
 
-[ PROJECT ILLUSTRATION ]
+<img
+  src="./assets/projects.png"
+  width="190"
+  alt="Full-stack project illustration"
+/>
 
 </td>
 
@@ -283,9 +443,11 @@ A social networking application focused on authentication, content creation, ima
 
 <td width="32%" align="center">
 
-<!-- PROJECT ILLUSTRATION SLOT -->
-
-[ PROJECT ILLUSTRATION ]
+<img
+  src="./assets/dietlab.png"
+  width="190"
+  alt="DietLab project illustration"
+/>
 
 </td>
 
@@ -348,9 +510,11 @@ A prototype exploring digital healthcare access through consultations, patient r
 
 <td width="32%" align="center">
 
-<!-- PROJECT ILLUSTRATION SLOT -->
-
-[ PROJECT ILLUSTRATION ]
+<img
+  src="./assets/telemedicine.png"
+  width="190"
+  alt="Telemedicine project illustration"
+/>
 
 </td>
 
@@ -367,9 +531,11 @@ A prototype exploring digital healthcare access through consultations, patient r
 
 <td width="32%" align="center">
 
-<!-- AI PROJECT ILLUSTRATION SLOT -->
-
-[ AI ILLUSTRATION ]
+<img
+  src="./assets/traffic-ai.png"
+  width="180"
+  alt="AI traffic management illustration"
+/>
 
 </td>
 
@@ -397,14 +563,12 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
 </tr>
 </table>
 
-<br>
+<br><br>
 
 
 <!-- ============================================================= -->
 <!-- EXPERIENCE                                                    -->
 <!-- ============================================================= -->
-
-<!-- CUSTOM EXPERIENCE HEADER WILL GO HERE -->
 
 <h2 align="center">✦ EXPERIENCE ✦</h2>
 
@@ -413,11 +577,6 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
 </p>
 
 <br>
-
-<table>
-<tr>
-
-<td width="75%" valign="middle">
 
 ### Web Development Intern — DietLab
 
@@ -429,29 +588,9 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
 
 `Next.js` `React` `Tailwind CSS` `Framer Motion` `Node.js` `MongoDB`
 
-</td>
+<br>
 
-<td width="25%" align="center">
-
-<!-- EXPERIENCE ILLUSTRATION SLOT -->
-
-[ EXPERIENCE ILLUSTRATION ]
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="25%" align="center">
-
-<!-- EXPERIENCE ILLUSTRATION SLOT -->
-
-[ EXPERIENCE ILLUSTRATION ]
-
-</td>
-
-<td width="75%" valign="middle">
+---
 
 ### Web Development Intern — FootFlex
 
@@ -463,19 +602,12 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
 
 `Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
-</td>
-
-</tr>
-</table>
-
-<br>
+<br><br>
 
 
 <!-- ============================================================= -->
 <!-- DEVELOPER ACTIVITY                                            -->
 <!-- ============================================================= -->
-
-<!-- CUSTOM ACTIVITY HEADER WILL GO HERE -->
 
 <h2 align="center">✦ DEVELOPER ACTIVITY ✦</h2>
 
@@ -505,9 +637,13 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
 
 <!-- CONTRIBUTION SNAKE WILL BE ADDED LATER -->
 
-[ CONTRIBUTION ACTIVITY ]
+<img
+  src="./assets/github-contribution-grid-snake.svg"
+  width="92%"
+  alt="GitHub contribution activity"
+/>
 
-<br>
+<br><br>
 
 
 <!-- ============================================================= -->
@@ -539,74 +675,28 @@ Building toward software that is not only functional, but **reliable, scalable a
 
 <td width="28%" align="center">
 
-<!-- LEARNING ILLUSTRATION SLOT -->
+<!-- LEARNING ILLUSTRATION
+     Add later:
+     ./assets/learning.png
+-->
 
-[ GALAXY / LEARNING ILLUSTRATION ]
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<!-- ============================================================= -->
-<!-- CONNECT                                                       -->
-<!-- ============================================================= -->
-
-<!-- CUSTOM CONNECT HEADER WILL GO HERE -->
-
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
-
-<br>
-
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-<!-- CLOSING ILLUSTRATION SLOT -->
-
-[ CONNECT ILLUSTRATION ]
-
-</td>
-
-<td width="65%" valign="middle">
-
-### Have an interesting problem to solve?
-
-I'm always open to connecting with **developers, founders, teams and recruiters** working on interesting products.
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:nishikachawla.devhub@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14"
-    alt="Email"
-  />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14"
-    alt="Portfolio"
-  />
-</a>
+<img
+  src="./assets/learning.png"
+  width="160"
+  alt="Galaxy learning illustration"
+/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
+<br><br>
+
+
+<!-- ============================================================= -->
+<!-- FOOTER                                                        -->
+<!-- ============================================================= -->
 
 <p align="center">
   <sub>✦ Build · Learn · Ship ✦</sub>
