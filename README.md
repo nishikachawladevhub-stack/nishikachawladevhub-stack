@@ -357,12 +357,9 @@ I'm always open to connecting with developers, founders, teams and recruiters wo
 <!-- FEATURED PROJECTS                                             -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
-
 <p align="center">
-  <sub>A selection of things I've built.</sub>
+  <img src="./projects.svg" width="100%" alt="Featured Projects" />
 </p>
-
 
 <!-- PROJECT 01 -->
 
