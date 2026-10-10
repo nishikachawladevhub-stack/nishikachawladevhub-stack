@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Projects">
+  <title>Projects</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B1F"/><stop offset="1" stop-color="#0B1030"/>
+    </linearGradient>
+    <radialGradient id="haze" cx=".3" cy=".72" r=".6" gradientTransform="translate(.12 0) scale(.6 1)">
+      <stop offset="0" stop-color="#2B3FA8" stop-opacity=".28"/><stop offset="1" stop-color="#2B3FA8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haze2" cx=".78" cy=".85" r=".5">
+      <stop offset="0" stop-color="#7C5CFF" stop-opacity=".16"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset=".6" stop-color="#CFF4FA"/><stop offset="1" stop-color="#D5CCFB"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#37D6F0" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#37D6F0" stop-opacity=".75"/>
+      <stop offset=".5" stop-color="#EFFFFF"/>
+      <stop offset=".78" stop-color="#37D6F0" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#37D6F0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vcore" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9B6BFF" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#9B6BFF" stop-opacity=".8"/>
+      <stop offset=".55" stop-color="#E3D4FF"/>
+      <stop offset="1" stop-color="#9B6BFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="flareC"><stop offset="0" stop-color="#7FE9FA" stop-opacity=".9"/><stop offset=".35" stop-color="#37D6F0" stop-opacity=".35"/><stop offset="1" stop-color="#37D6F0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flareV"><stop offset="0" stop-color="#C9A8FF" stop-opacity=".9"/><stop offset=".35" stop-color="#9B6BFF" stop-opacity=".35"/><stop offset="1" stop-color="#9B6BFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="hot"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".4" stop-color="#BFF7FF" stop-opacity=".6"/><stop offset="1" stop-color="#37D6F0" stop-opacity="0"/></radialGradient>
+    <filter id="g1" x="-10%" y="-900%" width="120%" height="1900%"><feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="g2" x="-10%" y="-900%" width="120%" height="1900%"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="tg" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="bk" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="1.6"/></filter>
+    <clipPath id="clip"><rect width="900" height="140" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="140" fill="url(#bg)"/>
+    <rect width="900" height="140" fill="url(#haze)"/>
+    <rect width="900" height="140" fill="url(#haze2)"/>
+    <circle cx="223" cy="26" r="2.2" fill="#9FB4FF" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="5.6s" begin="-0.6s" repeatCount="indefinite"/></circle><circle cx="365" cy="117" r="0.7" fill="#BFF1F7" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="7.1s" begin="-3.2s" repeatCount="indefinite"/></circle><circle cx="691" cy="107" r="1.4" fill="#BFF1F7" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="8.8s" begin="-0.2s" repeatCount="indefinite"/></circle><circle cx="571" cy="43" r="1.4" fill="#BFF1F7" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="5.7s" begin="-2.6s" repeatCount="indefinite"/></circle><circle cx="766" cy="122" r="1.4" fill="#BFF1F7" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="8.4s" begin="-3.0s" repeatCount="indefinite"/></circle><circle cx="354" cy="42" r="1" fill="#9FB4FF" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="6.1s" begin="-8.5s" repeatCount="indefinite"/></circle><circle cx="723" cy="120" r="1.4" fill="#BFF1F7" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="8.6s" begin="-5.2s" repeatCount="indefinite"/></circle><circle cx="779" cy="109" r="1" fill="#9FB4FF" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="6.7s" begin="-2.6s" repeatCount="indefinite"/></circle><circle cx="408" cy="40" r="1.4" fill="#BFF1F7" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="5.3s" begin="-4.2s" repeatCount="indefinite"/></circle><circle cx="878" cy="72" r="2.2" fill="#C4B5FD" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="6.4s" begin="-9.0s" repeatCount="indefinite"/></circle><circle cx="188" cy="60" r="1" fill="#C4B5FD" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="7.5s" begin="-2.5s" repeatCount="indefinite"/></circle><circle cx="326" cy="98" r="1.4" fill="#C4B5FD" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="7.2s" begin="-8.1s" repeatCount="indefinite"/></circle><circle cx="107" cy="21" r="1" fill="#9FB4FF" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="8.1s" begin="-5.5s" repeatCount="indefinite"/></circle><circle cx="224" cy="51" r="1" fill="#9FB4FF" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="6.8s" begin="-0.4s" repeatCount="indefinite"/></circle><circle cx="620" cy="114" r="1.4" fill="#C4B5FD" opacity=".2" filter="url(#bk)"><animate attributeName="opacity" values=".06;.5;.06" dur="7.7s" begin="-2.9s" repeatCount="indefinite"/></circle><circle cx="298" cy="50" r="1" fill="#C4B5FD" opacity=".2"><animate attributeName="opacity" values=".06;.5;.06" dur="6.6s" begin="-8.5s" repeatCount="indefinite"/></circle>
+
+    <g transform="translate(314.4 62)">
+      <path d="M1.46 0V-18.69H16.78Q17.71 -18.69 18.48 -18.23Q19.26 -17.77 19.72 -17Q20.18 -16.23 20.18 -15.31V-10.06Q20.18 -9.14 19.72 -8.37Q19.26 -7.6 18.48 -7.14Q17.71 -6.67 16.78 -6.67L4.26 -6.66V0ZM4.91 -9.51H16.7Q16.97 -9.51 17.16 -9.69Q17.35 -9.87 17.35 -10.14V-15.24Q17.35 -15.51 17.16 -15.7Q16.97 -15.89 16.7 -15.89H4.91Q4.64 -15.89 4.45 -15.7Q4.26 -15.51 4.26 -15.24V-10.14Q4.26 -9.87 4.45 -9.69Q4.64 -9.51 4.91 -9.51Z M52.37 0 46.5 -6.99H50.18L55.65 -0.52V0ZM37.02 0V-18.69H52.35Q53.28 -18.69 54.05 -18.23Q54.82 -17.77 55.28 -17Q55.74 -16.23 55.74 -15.31V-10.06Q55.74 -9.14 55.28 -8.37Q54.82 -7.6 54.05 -7.14Q53.28 -6.67 52.35 -6.67L39.83 -6.66V0ZM40.47 -9.51H52.27Q52.54 -9.51 52.73 -9.69Q52.92 -9.87 52.92 -10.14V-15.24Q52.92 -15.51 52.73 -15.7Q52.54 -15.89 52.27 -15.89H40.47Q40.21 -15.89 40.02 -15.7Q39.83 -15.51 39.83 -15.24V-10.14Q39.83 -9.87 40.02 -9.69Q40.21 -9.51 40.47 -9.51Z M76.81 0Q75.88 0 75.1 -0.45Q74.33 -0.91 73.87 -1.68Q73.42 -2.46 73.42 -3.39V-15.33Q73.42 -16.26 73.87 -17.04Q74.33 -17.81 75.1 -18.27Q75.88 -18.72 76.81 -18.72H88.75Q89.68 -18.72 90.45 -18.27Q91.22 -17.81 91.68 -17.04Q92.14 -16.26 92.14 -15.33V-3.39Q92.14 -2.46 91.68 -1.68Q91.22 -0.91 90.45 -0.45Q89.68 0 88.75 0ZM76.87 -2.82H88.67Q88.93 -2.82 89.12 -3.01Q89.31 -3.2 89.31 -3.46V-15.26Q89.31 -15.52 89.12 -15.71Q88.93 -15.9 88.67 -15.9H76.87Q76.61 -15.9 76.42 -15.71Q76.23 -15.52 76.23 -15.26V-3.46Q76.23 -3.2 76.42 -3.01Q76.61 -2.82 76.87 -2.82Z M112.03 0Q111.1 0 110.33 -0.45Q109.56 -0.91 109.1 -1.68Q108.65 -2.46 108.65 -3.39V-5.21H111.46V-3.46Q111.46 -3.2 111.65 -3.01Q111.84 -2.82 112.1 -2.82H123.9Q124.16 -2.82 124.35 -3.01Q124.54 -3.2 124.54 -3.46V-18.72H127.37V-3.39Q127.37 -2.46 126.91 -1.68Q126.45 -0.91 125.68 -0.45Q124.91 0 123.98 0Z M145.33 0V-18.72H162.49V-15.9H148.16V-10.78H159.68V-7.94H148.16V-2.82H162.49V0Z M183.58 0Q182.65 0 181.88 -0.45Q181.1 -0.91 180.65 -1.68Q180.2 -2.45 180.2 -3.39V-15.33Q180.2 -16.27 180.65 -17.04Q181.1 -17.81 181.88 -18.27Q182.65 -18.72 183.58 -18.72H198.86V-15.9H183.96Q183.55 -15.9 183.27 -15.64Q183 -15.37 183 -14.95V-3.77Q183 -3.36 183.27 -3.09Q183.55 -2.82 183.96 -2.82H198.86V0Z M223.59 0V-15.9H215.63V-18.72H234.35V-15.9H226.41V0Z M254.59 0Q253.66 0 252.88 -0.45Q252.11 -0.91 251.65 -1.68Q251.2 -2.46 251.2 -3.39V-4.48H254.01V-3.46Q254.01 -3.2 254.2 -3.01Q254.39 -2.82 254.65 -2.82H266.45Q266.71 -2.82 266.9 -3.01Q267.09 -3.2 267.09 -3.46V-7.32Q267.09 -7.58 266.9 -7.76Q266.71 -7.94 266.45 -7.94H254.59Q253.66 -7.94 252.88 -8.41Q252.11 -8.87 251.65 -9.63Q251.2 -10.4 251.2 -11.33V-15.33Q251.2 -16.26 251.65 -17.04Q252.11 -17.81 252.88 -18.27Q253.66 -18.72 254.59 -18.72H266.53Q267.46 -18.72 268.23 -18.27Q269 -17.81 269.46 -17.04Q269.92 -16.26 269.92 -15.33V-14.24H267.09V-15.26Q267.09 -15.52 266.9 -15.71Q266.71 -15.9 266.45 -15.9H254.65Q254.39 -15.9 254.2 -15.71Q254.01 -15.52 254.01 -15.26V-11.4Q254.01 -11.14 254.2 -10.96Q254.39 -10.78 254.65 -10.78H266.53Q267.46 -10.78 268.23 -10.31Q269 -9.85 269.46 -9.09Q269.92 -8.32 269.92 -7.39V-3.39Q269.92 -2.46 269.46 -1.68Q269 -0.91 268.23 -0.45Q267.46 0 266.53 0Z" fill="#37D6F0" opacity=".28" filter="url(#tg)"/>
+      <path d="M1.46 0V-18.69H16.78Q17.71 -18.69 18.48 -18.23Q19.26 -17.77 19.72 -17Q20.18 -16.23 20.18 -15.31V-10.06Q20.18 -9.14 19.72 -8.37Q19.26 -7.6 18.48 -7.14Q17.71 -6.67 16.78 -6.67L4.26 -6.66V0ZM4.91 -9.51H16.7Q16.97 -9.51 17.16 -9.69Q17.35 -9.87 17.35 -10.14V-15.24Q17.35 -15.51 17.16 -15.7Q16.97 -15.89 16.7 -15.89H4.91Q4.64 -15.89 4.45 -15.7Q4.26 -15.51 4.26 -15.24V-10.14Q4.26 -9.87 4.45 -9.69Q4.64 -9.51 4.91 -9.51Z M52.37 0 46.5 -6.99H50.18L55.65 -0.52V0ZM37.02 0V-18.69H52.35Q53.28 -18.69 54.05 -18.23Q54.82 -17.77 55.28 -17Q55.74 -16.23 55.74 -15.31V-10.06Q55.74 -9.14 55.28 -8.37Q54.82 -7.6 54.05 -7.14Q53.28 -6.67 52.35 -6.67L39.83 -6.66V0ZM40.47 -9.51H52.27Q52.54 -9.51 52.73 -9.69Q52.92 -9.87 52.92 -10.14V-15.24Q52.92 -15.51 52.73 -15.7Q52.54 -15.89 52.27 -15.89H40.47Q40.21 -15.89 40.02 -15.7Q39.83 -15.51 39.83 -15.24V-10.14Q39.83 -9.87 40.02 -9.69Q40.21 -9.51 40.47 -9.51Z M76.81 0Q75.88 0 75.1 -0.45Q74.33 -0.91 73.87 -1.68Q73.42 -2.46 73.42 -3.39V-15.33Q73.42 -16.26 73.87 -17.04Q74.33 -17.81 75.1 -18.27Q75.88 -18.72 76.81 -18.72H88.75Q89.68 -18.72 90.45 -18.27Q91.22 -17.81 91.68 -17.04Q92.14 -16.26 92.14 -15.33V-3.39Q92.14 -2.46 91.68 -1.68Q91.22 -0.91 90.45 -0.45Q89.68 0 88.75 0ZM76.87 -2.82H88.67Q88.93 -2.82 89.12 -3.01Q89.31 -3.2 89.31 -3.46V-15.26Q89.31 -15.52 89.12 -15.71Q88.93 -15.9 88.67 -15.9H76.87Q76.61 -15.9 76.42 -15.71Q76.23 -15.52 76.23 -15.26V-3.46Q76.23 -3.2 76.42 -3.01Q76.61 -2.82 76.87 -2.82Z M112.03 0Q111.1 0 110.33 -0.45Q109.56 -0.91 109.1 -1.68Q108.65 -2.46 108.65 -3.39V-5.21H111.46V-3.46Q111.46 -3.2 111.65 -3.01Q111.84 -2.82 112.1 -2.82H123.9Q124.16 -2.82 124.35 -3.01Q124.54 -3.2 124.54 -3.46V-18.72H127.37V-3.39Q127.37 -2.46 126.91 -1.68Q126.45 -0.91 125.68 -0.45Q124.91 0 123.98 0Z M145.33 0V-18.72H162.49V-15.9H148.16V-10.78H159.68V-7.94H148.16V-2.82H162.49V0Z M183.58 0Q182.65 0 181.88 -0.45Q181.1 -0.91 180.65 -1.68Q180.2 -2.45 180.2 -3.39V-15.33Q180.2 -16.27 180.65 -17.04Q181.1 -17.81 181.88 -18.27Q182.65 -18.72 183.58 -18.72H198.86V-15.9H183.96Q183.55 -15.9 183.27 -15.64Q183 -15.37 183 -14.95V-3.77Q183 -3.36 183.27 -3.09Q183.55 -2.82 183.96 -2.82H198.86V0Z M223.59 0V-15.9H215.63V-18.72H234.35V-15.9H226.41V0Z M254.59 0Q253.66 0 252.88 -0.45Q252.11 -0.91 251.65 -1.68Q251.2 -2.46 251.2 -3.39V-4.48H254.01V-3.46Q254.01 -3.2 254.2 -3.01Q254.39 -2.82 254.65 -2.82H266.45Q266.71 -2.82 266.9 -3.01Q267.09 -3.2 267.09 -3.46V-7.32Q267.09 -7.58 266.9 -7.76Q266.71 -7.94 266.45 -7.94H254.59Q253.66 -7.94 252.88 -8.41Q252.11 -8.87 251.65 -9.63Q251.2 -10.4 251.2 -11.33V-15.33Q251.2 -16.26 251.65 -17.04Q252.11 -17.81 252.88 -18.27Q253.66 -18.72 254.59 -18.72H266.53Q267.46 -18.72 268.23 -18.27Q269 -17.81 269.46 -17.04Q269.92 -16.26 269.92 -15.33V-14.24H267.09V-15.26Q267.09 -15.52 266.9 -15.71Q266.71 -15.9 266.45 -15.9H254.65Q254.39 -15.9 254.2 -15.71Q254.01 -15.52 254.01 -15.26V-11.4Q254.01 -11.14 254.2 -10.96Q254.39 -10.78 254.65 -10.78H266.53Q267.46 -10.78 268.23 -10.31Q269 -9.85 269.46 -9.09Q269.92 -8.32 269.92 -7.39V-3.39Q269.92 -2.46 269.46 -1.68Q269 -0.91 268.23 -0.45Q267.46 0 266.53 0Z" fill="url(#txt)"/>
+    </g>
+
+    <!-- cyan anamorphic streak, weighted left -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-18 0;18 0;-18 0" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 .05 .55 .95;.45 .05 .55 .95" dur="12s" repeatCount="indefinite"/>
+      <g>
+        <animate attributeName="opacity" values=".78;1;.78" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 .05 .55 .95;.45 .05 .55 .95" dur="6s" repeatCount="indefinite"/>
+        <ellipse cx="290" cy="94" rx="330" ry="9" fill="url(#flareC)" opacity=".55"/>
+        <rect x="-30" y="92" width="640" height="4" fill="url(#core)" filter="url(#g2)" opacity=".7"/>
+        <rect x="-30" y="93" width="640" height="2.6" fill="url(#core)" filter="url(#g1)"/>
+        <rect x="-30" y="94" width="640" height="1.2" fill="url(#core)"/>
+        <ellipse cx="270" cy="94.6" rx="70" ry="3.2" fill="url(#hot)"/>
+      </g>
+    </g>
+
+    <!-- violet streak, offset right and lower -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="16 0;-16 0;16 0" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 .05 .55 .95;.45 .05 .55 .95" dur="14s" repeatCount="indefinite"/>
+      <g>
+        <animate attributeName="opacity" values="1;.7;1" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 .05 .55 .95;.45 .05 .55 .95" dur="7.5s" repeatCount="indefinite"/>
+        <ellipse cx="470" cy="112" rx="230" ry="7" fill="url(#flareV)" opacity=".5"/>
+        <rect x="230" y="110.2" width="480" height="3.2" fill="url(#vcore)" filter="url(#g1)"/>
+        <rect x="230" y="111.2" width="480" height="1.1" fill="url(#vcore)"/>
+        <ellipse cx="450" cy="111.8" rx="48" ry="2.6" fill="url(#flareV)"/>
+      </g>
+    </g>
+
+    <!-- slow travelling flare along the cyan streak -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-120 0;760 0" calcMode="spline" keyTimes="0;1" keySplines=".4 .1 .5 .9" dur="7s" repeatCount="indefinite"/>
+      <ellipse cx="120" cy="94.6" rx="60" ry="5" fill="url(#hot)" opacity=".85"/>
+      <ellipse cx="120" cy="94.6" rx="16" ry="1.6" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>
