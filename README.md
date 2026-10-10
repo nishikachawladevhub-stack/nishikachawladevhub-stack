@@ -575,12 +575,9 @@ Next.js React Tailwind CSS Node.js MongoDB
 <!-- CURRENTLY LEARNING                                            -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ CURRENTLY LEARNING ✦</h2>
-
 <p align="center">
-  <sub>Areas I'm actively exploring.</sub>
+  <img src="./currently-learning.svg" width="85%" alt="Currently Learning" />
 </p>
-
 
 <table>
 <tr>
