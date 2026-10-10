@@ -55,11 +55,11 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="./h-about.svg" width="100%" alt="Tech Stack" />
+  <img src="./h-about.svg" width="100%" alt="About Me" />
 </p>
 
 <p align="center">
-  <sub>Technologies I use to design, build and ship.</sub>
+  <sub>Building practical software, one idea at a time.</sub>
 </p>
 
 
@@ -107,11 +107,11 @@ Software Engineering · Full-Stack · Internships · Full-Time Roles
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="./h-connect.svg" width="100%" alt="Tech Stack" />
+  <img src="./h-connect.svg" width="100%" alt="Let’s Connect" />
 </p>
 
 <p align="center">
-  <sub>Technologies I use to design, build and ship.</sub>
+  <sub>Let’s build something meaningful together.</sub>
 </p>
 
 
@@ -399,7 +399,7 @@ React Node.js Express MongoDB
 -->
 
 <img
-  src="./pictogram.png"
+  src="./Neon Glass Instagram Icon-2.png"
   width="190"
   alt="Full-stack project illustration"
 />
@@ -470,7 +470,7 @@ React Native Expo Node.js MongoDB
 <td width="32%" align="center">
 
 <img
-  src="./telemed.png"
+  src="./Luminous Teal Glass Stethoscope.png"
   width="190"
   alt="Telemedicine project illustration"
 />
