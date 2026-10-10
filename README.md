@@ -166,7 +166,9 @@ I'm always open to connecting with developers, founders, teams and recruiters wo
 <!-- TECH STACK                                                    -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ TECH STACK ✦</h2>
+<p align="center">
+  <img src="./h-stack.svg" width="100%" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <sub>Technologies I use to design, build and ship.</sub>
