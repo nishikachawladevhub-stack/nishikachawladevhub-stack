@@ -63,36 +63,16 @@
 </p>
 
 
-<table>
-<tr>
-
-<td width="62%" valign="middle">
-
-Hi, I'm Nishika.
-I'm a final-year Computer Science Engineering student focused on building practical, user-facing software.
-I work across the stack with React, Next.js, Node.js and MongoDB, and I'm exploring applied AI and computer vision to build more intelligent products.
-I enjoy taking ideas from concept → implementation → deployment and continuously improving how I build and ship software.
-
-Open to
-Software Engineering · Full-Stack · Internships · Full-Time Roles
-</td>
-
-<td width="50%" align="center">
-
-<!-- ABOUT ILLUSTRATION
-     Add later:
-     ./know_me.png
--->
-
-<img
-  src="./know_me.png"
-  width="270"
-  alt="Cozy anime developer illustration"
-/>
-</td>
-
-</tr>
-</table>
+<p>
+  <img src="./know_me.png" width="270" align="right" alt="About Me illustration" />
+  Hi, I'm Nishika.<br>
+  I'm a final-year Computer Science Engineering student focused on building practical, user-facing software.
+  I work across the stack with React, Next.js, Node.js and MongoDB, and I'm exploring applied AI and computer vision to build more intelligent products.
+  I enjoy taking ideas from concept → implementation → deployment and continuously improving how I build and ship software.<br><br>
+  <strong>Open to</strong><br>
+  Software Engineering · Full-Stack · Internships · Full-Time Roles
+</p>
+<br clear="all">
 
 
 <p align="center">
@@ -115,53 +95,21 @@ Software Engineering · Full-Stack · Internships · Full-Time Roles
 </p>
 
 
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-<!-- CONNECT ILLUSTRATION
-     Add later:
-     ./lets_connect.png
--->
-
-<img
-  src="./lets_connect.png"
-  width="190"
-  alt="Cozy developer illustration"
-/>
-</td>
-
-<td width="65%" valign="middle">
-
-Have an interesting problem to solve?
-I'm always open to connecting with developers, founders, teams and recruiters working on interesting products.
-
-<a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:nishikachawla.devhub@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14"
-    alt="Email"
-  />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14"
-    alt="Portfolio"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
+<p>
+  <img src="./lets_connect.png" width="190" align="left" alt="Let's Connect illustration" />
+  Have an interesting problem to solve?<br>
+  I'm always open to connecting with developers, founders, teams and recruiters working on interesting products.<br><br>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nishikachawla.devhub@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14" alt="Email" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14" alt="Portfolio" />
+  </a>
+</p>
+<br clear="all">
 
 
 
@@ -367,150 +315,51 @@ I'm always open to connecting with developers, founders, teams and recruiters wo
   <img src="./preoject.svg" width="100%" alt="Featured Projects" />
 </p>
 
-<!-- PROJECT 01 -->
+<p>
+  <img src="./Neon Glass Instagram Icon-2.png" width="190" align="right" alt="Pictogram social platform illustration" />
+  <strong>Pictogram</strong><br>
+  Full-Stack Social Platform<br>
+  A social networking application focused on authentication, content creation, image uploads and a dynamic feed experience.<br><br>
+  React · Node.js · Express · MongoDB<br><br>
+  <a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14" alt="View repository" />
+  </a>
+</p>
+<br clear="all">
+<hr>
 
-<table>
-<tr>
+<p>
+  <strong>DietLab</strong><br>
+  Nutrition Consulting Platform<br>
+  A production-oriented platform with reusable UI components, animations and a content publishing workflow for recipes and articles.<br><br>
+  Next.js · React · Tailwind CSS · Node.js · MongoDB<br><br>
+  <a href="YOUR_DIETLAB_REPO_URL">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8F82E8?style=for-the-badge&logo=github&logoColor=080A14" alt="View repository" />
+  </a>
+</p>
+<hr>
 
-<td width="68%" valign="middle">
+<p>
+  <img src="./Luminous Teal Glass Stethoscope.png" width="190" align="right" alt="Telemedicine project illustration" />
+  <strong>Telemedicine Platform</strong><br>
+  Healthcare Application Prototype<br>
+  A prototype exploring digital healthcare access through consultations, patient records and supporting healthcare workflows.<br><br>
+  React Native · Expo · Node.js · MongoDB<br><br>
+  <a href="https://github.com/nishikachawladevhub-stack/Telemed-prototype">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14" alt="View repository" />
+  </a>
+</p>
+<br clear="all">
+<hr>
 
-Pictogram
-Full-Stack Social Platform
-A social networking application focused on authentication, content creation, image uploads and a dynamic feed experience.
-
-React Node.js Express MongoDB
-
-
-
-<a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-<td width="32%" align="center">
-
-<!-- PROJECT ILLUSTRATION
-     Add later:
-     ./pictogram.png
--->
-
-<img
-  src="./Neon Glass Instagram Icon-2.png"
-  width="190"
-  alt="Full-stack project illustration"
-/>
-</td>
-
-</tr>
-</table>
-
-
-<!-- PROJECT 02 -->
-
-<table>
-<tr>
-
-<td width="32%" align="center">
-
-<!-- DietLab illustration can be added after uploading dietlab.png. -->
-
-</td>
-
-<td width="68%" valign="middle">
-
-DietLab
-Nutrition Consulting Platform
-A production-oriented platform with reusable UI components, animations and a content publishing workflow for recipes and articles.
-
-Next.js React Tailwind CSS Node.js MongoDB
-
-
-
-<a href="YOUR_DIETLAB_REPO_URL">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-8F82E8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- PROJECT 03 -->
-
-<table>
-<tr>
-
-<td width="68%" valign="middle">
-
-Telemedicine Platform
-Healthcare Application Prototype
-A prototype exploring digital healthcare access through consultations, patient records and supporting healthcare workflows.
-
-React Native Expo Node.js MongoDB
-
-
-
-<a href="https://github.com/nishikachawladevhub-stack/Telemed-prototype">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-<td width="32%" align="center">
-
-<img
-  src="./Luminous Teal Glass Stethoscope.png"
-  width="190"
-  alt="Telemedicine project illustration"
-/>
-</td>
-
-</tr>
-</table>
-
-
-<!-- PROJECT 04 -->
-
-<table>
-<tr>
-
-<td width="32%" align="center">
-
-<!-- AI traffic illustration can be added after uploading traffic-ai.png. -->
-
-</td>
-
-<td width="68%" valign="middle">
-
-AI Traffic Management
-Upcoming Flagship Project
-An AI-based traffic management system exploring vehicle detection, traffic-density analysis and intelligent signal management.
-
-Python OpenCV YOLO Machine Learning
-
-
-
-<img
-  src="https://img.shields.io/badge/IN%20PROGRESS-151B35?style=for-the-badge&logoColor=B5A8F5"
-  alt="In progress"
-/>
-</td>
-
-</tr>
-</table>
-
-
+<p>
+  <strong>AI Traffic Management</strong><br>
+  Upcoming Flagship Project<br>
+  An AI-based traffic management system exploring vehicle detection, traffic-density analysis and intelligent signal management.<br><br>
+  Python · OpenCV · YOLO · Machine Learning<br><br>
+  <img src="https://img.shields.io/badge/IN%20PROGRESS-151B35?style=for-the-badge&logoColor=B5A8F5" alt="In progress" />
+</p>
+<hr>
 
 
 <!-- ============================================================= -->
