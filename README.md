@@ -1,703 +1,231 @@
-<!-- ========================================================= -->
-<!--                 NISHIKA CHAWLA — PROFILE                  -->
-<!--        DARK GALAXY • FULL-STACK • APPLIED AI              -->
-<!-- ========================================================= -->
 
 
-<!-- ============================ HERO ============================ -->
+<!-- NISHIKA CHAWLA | dark galaxy profile -->
+<!-- Heading images: when ready, uncomment the <img> line under each section and delete the <h2> line. -->
 
 <p align="center">
-  <img
-    src="./github_banner_animated.gif"
-    width="100%"
-    alt="Nishika Chawla — Full-Stack Developer"
-  />
+  <img src="./github_banner_animated.gif" width="100%" alt="Nishika Chawla - Full-Stack Developer" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishika-chawla-a44704295/"><img src="https://img.shields.io/badge/LINKEDIN-0D1226?style=for-the-badge&logo=linkedin&logoColor=72DAE8" alt="LinkedIn" /></a>
+  <a href="mailto:nishikachawla.devhub@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1226?style=for-the-badge&logo=gmail&logoColor=B5A8F5" alt="Email" /></a>
+  <a href="./resume.pdf"><img src="https://img.shields.io/badge/RESUME-0D1226?style=for-the-badge&logo=readme&logoColor=72DAE8" alt="Resume" /></a>
 </p>
 
 <br>
 
+<!-- ======================= ABOUT ======================= -->
 
-<!-- ======================== SOCIAL BAR ========================== -->
+<!-- <p align="center"><img src="./assets/h-about.png" width="100%" alt="About" /></p> -->
+<h2 align="center">✦ ABOUT ✦</h2>
 
-<p align="center">
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0D1226?style=for-the-badge&logo=linkedin&logoColor=72DAE8"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:nishikachawla.devhub@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-0D1226?style=for-the-badge&logo=gmail&logoColor=B5A8F5"
-      alt="Email"
-    />
-  </a>
-
-  <a href="./resume.pdf">
-    <img
-      src="https://img.shields.io/badge/RESUME-0D1226?style=for-the-badge&logo=readme&logoColor=72DAE8"
-      alt="Resume"
-    />
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-0D1226?style=for-the-badge&logo=vercel&logoColor=D99A68"
-      alt="Portfolio"
-    />
-  </a>
-
-</p>
-
-<br>
-
-
-<!-- ============================================================= -->
-<!-- ABOUT                                                         -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ ABOUT ME ✦</h2>
-
-<p align="center">
-  <sub>Computer Science · Full-Stack Development · Applied AI</sub>
-</p>
-
-<br>
-
-<table>
+<table width="100%" bgcolor="#0D1226">
 <tr>
-
-<td width="62%" valign="middle">
+<!-- Optional illustration column: add <td width="36%" align="center"><img src="./assets/about.png" width="260" alt="Illustration" /></td> -->
+<td valign="middle">
 
 ### Hi, I'm Nishika.
 
-I'm a **final-year Computer Science Engineering student** focused on building practical, user-facing software.
+Final-year Computer Science student in Pune who builds full-stack products with **React, Next.js, Node.js and MongoDB**.
 
-I work across the stack with **React, Next.js, Node.js and MongoDB**, and I'm exploring **applied AI and computer vision** to build more intelligent products.
+I've shipped real client work as a web development intern, and I'm now building an **AI traffic management system** with computer vision.
 
-I enjoy taking ideas from **concept → implementation → deployment** and continuously improving how I build and ship software.
-
-<br>
-
-**Open to**
-
-`Software Engineering` · `Full-Stack` · `Internships` · `Full-Time Roles`
+**Open to** &nbsp; `SWE Roles` &nbsp; `Internships` &nbsp; `Full-Stack`
 
 </td>
-
-<td width="38%" align="center">
-
-<!-- ABOUT ILLUSTRATION
-     Add later:
-     ./assets/about.png
--->
-
-<img
-  src="./assets/about.png"
-  width="270"
-  alt="Cozy anime developer illustration"
-/>
-
-</td>
-
 </tr>
 </table>
 
 <br>
 
-<p align="center">
-  <sub>✦ turning ideas into things people can actually use ✦</sub>
-</p>
+<!-- ======================= PROJECTS ======================= -->
 
-<br><br>
+<!-- <p align="center"><img src="./assets/h-projects.png" width="100%" alt="Projects" /></p> -->
+<h2 align="center">✦ PROJECTS ✦</h2>
 
+<table width="100%" bgcolor="#0D1226">
+<tr><td>
 
-<!-- ============================================================= -->
-<!-- CONNECT                                                       -->
-<!-- ============================================================= -->
+### SocialSphere
+**Full-stack social networking platform**
 
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
+Authentication, posts, image uploads and real-time feed updates.
 
-<p align="center">
-  <sub>Open to interesting products, teams and software engineering opportunities.</sub>
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-<!-- CONNECT ILLUSTRATION
-     Add later:
-     ./assets/connect.png
--->
-
-<img
-  src="./assets/connect.png"
-  width="190"
-  alt="Cozy developer illustration"
-/>
-
-</td>
-
-<td width="65%" valign="middle">
-
-### Have an interesting problem to solve?
-
-I'm always open to connecting with **developers, founders, teams and recruiters** working on interesting products.
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:nishikachawla.devhub@gmail.com">
-  <img
-    src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14"
-    alt="Email"
-  />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-D99A68?style=for-the-badge&logo=vercel&logoColor=080A14"
-    alt="Portfolio"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-
-<!-- ============================================================= -->
-<!-- TECH STACK                                                    -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ TECH STACK ✦</h2>
-
-<p align="center">
-  <sub>Technologies I use to design, build and ship.</sub>
-</p>
-
-<br>
-
-<table>
-
-<!-- LANGUAGES -->
-
-<tr>
-
-<td
-  width="22%"
-  align="center"
-  valign="middle"
-  bgcolor="#0D1226"
->
-  <b>Languages</b>
-</td>
-
-<td
-  width="78%"
-  bgcolor="#080A14"
->
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-151B35?style=flat-square&logo=javascript&logoColor=72DAE8" alt="JavaScript">
-
-<img src="https://img.shields.io/badge/PYTHON-151B35?style=flat-square&logo=python&logoColor=A78BFA" alt="Python">
-
-<img src="https://img.shields.io/badge/C%2B%2B-151B35?style=flat-square&logo=cplusplus&logoColor=72DAE8" alt="C++">
-
-<img src="https://img.shields.io/badge/HTML5-151B35?style=flat-square&logo=html5&logoColor=D99A68" alt="HTML5">
-
-<img src="https://img.shields.io/badge/CSS3-151B35?style=flat-square&logo=css3&logoColor=8F82E8" alt="CSS3">
-
-</td>
-
-</tr>
-
-
-<!-- FRONTEND -->
-
-<tr>
-
-<td
-  width="22%"
-  align="center"
-  valign="middle"
-  bgcolor="#0D1226"
->
-  <b>Frontend</b>
-</td>
-
-<td
-  width="78%"
-  bgcolor="#0A0D1B"
->
-
-<img src="https://img.shields.io/badge/REACT-151B35?style=flat-square&logo=react&logoColor=72DAE8" alt="React">
-
-<img src="https://img.shields.io/badge/NEXT.JS-151B35?style=flat-square&logo=nextdotjs&logoColor=F1F3FA" alt="Next.js">
-
-<img src="https://img.shields.io/badge/TAILWIND_CSS-151B35?style=flat-square&logo=tailwindcss&logoColor=72DAE8" alt="Tailwind CSS">
-
-<img src="https://img.shields.io/badge/REACT_NATIVE-151B35?style=flat-square&logo=react&logoColor=8F82E8" alt="React Native">
-
-<img src="https://img.shields.io/badge/EXPO-151B35?style=flat-square&logo=expo&logoColor=F1F3FA" alt="Expo">
-
-<img src="https://img.shields.io/badge/FRAMER_MOTION-151B35?style=flat-square&logo=framer&logoColor=B5A8F5" alt="Framer Motion">
-
-</td>
-
-</tr>
-
-
-<!-- BACKEND & DATABASE -->
-
-<tr>
-
-<td
-  width="22%"
-  align="center"
-  valign="middle"
-  bgcolor="#0D1226"
->
-  <b>Backend &amp;<br>Database</b>
-</td>
-
-<td
-  width="78%"
-  bgcolor="#0A0D1B"
->
-
-<img src="https://img.shields.io/badge/NODE.JS-151B35?style=flat-square&logo=nodedotjs&logoColor=72DAE8" alt="Node.js">
-
-<img src="https://img.shields.io/badge/EXPRESS.JS-151B35?style=flat-square&logo=express&logoColor=F1F3FA" alt="Express.js">
-
-<img src="https://img.shields.io/badge/MONGODB-151B35?style=flat-square&logo=mongodb&logoColor=72DAE8" alt="MongoDB">
-
-<img src="https://img.shields.io/badge/SQL-151B35?style=flat-square&logo=postgresql&logoColor=8F82E8" alt="SQL">
-
-<img src="https://img.shields.io/badge/SQLITE-151B35?style=flat-square&logo=sqlite&logoColor=B5A8F5" alt="SQLite">
-
-<img src="https://img.shields.io/badge/REST_APIs-151B35?style=flat-square&logoColor=72DAE8" alt="REST APIs">
-
-</td>
-
-</tr>
-
-
-<!-- AI -->
-
-<tr>
-
-<td
-  width="22%"
-  align="center"
-  valign="middle"
-  bgcolor="#0D1226"
->
-  <b>AI &amp;<br>Computer Vision</b>
-</td>
-
-<td
-  width="78%"
-  bgcolor="#0A0D1B"
->
-
-<img src="https://img.shields.io/badge/PYTHON-151B35?style=flat-square&logo=python&logoColor=A78BFA" alt="Python">
-
-<img src="https://img.shields.io/badge/OPENCV-151B35?style=flat-square&logo=opencv&logoColor=72DAE8" alt="OpenCV">
-
-<img src="https://img.shields.io/badge/YOLO-151B35?style=flat-square&logoColor=A78BFA" alt="YOLO">
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-151B35?style=flat-square&logoColor=72DAE8" alt="Machine Learning">
-
-</td>
-
-</tr>
-
-
-<!-- TOOLS -->
-
-<tr>
-
-<td
-  width="22%"
-  align="center"
-  valign="middle"
-  bgcolor="#0D1226"
->
-  <b>Tools &amp;<br>Platforms</b>
-</td>
-
-<td
-  width="78%"
-  bgcolor="#0A0D1B"
->
-
-<img src="https://img.shields.io/badge/GIT-151B35?style=flat-square&logo=git&logoColor=D99A68" alt="Git">
-
-<img src="https://img.shields.io/badge/GITHUB-151B35?style=flat-square&logo=github&logoColor=F1F3FA" alt="GitHub">
-
-<img src="https://img.shields.io/badge/POSTMAN-151B35?style=flat-square&logo=postman&logoColor=D99A68" alt="Postman">
-
-<img src="https://img.shields.io/badge/VERCEL-151B35?style=flat-square&logo=vercel&logoColor=F1F3FA" alt="Vercel">
-
-<img src="https://img.shields.io/badge/SANITY-151B35?style=flat-square&logo=sanity&logoColor=F1F3FA" alt="Sanity CMS">
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<p align="center">
-  <sub>
-    Full-stack development · Mobile · APIs · Applied AI · Computer Vision
-  </sub>
-</p>
-
-<br><br>
-
-
-<!-- ============================================================= -->
-<!-- FEATURED PROJECTS                                             -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
-
-<p align="center">
-  <sub>A selection of things I've built.</sub>
-</p>
-
-<br>
-
-
-<!-- PROJECT 01 -->
-
-<table>
-<tr>
-
-<td width="68%" valign="middle">
-
-### Pictogram
-
-**Full-Stack Social Platform**
-
-A social networking application focused on authentication, content creation, image uploads and a dynamic feed experience.
-
-<br>
+- Improved backend speed by **35%** with MongoDB query optimization and indexing
+- Mobile-first UI scoring **92 Accessibility** and **85 Performance** on Lighthouse
 
 `React` `Node.js` `Express` `MongoDB`
 
-<br><br>
+<a href="https://github.com/nishikachawladevhub-stack/SocialSphere"><img src="https://img.shields.io/badge/VIEW%20CODE-72DAE8?style=for-the-badge&logo=github&logoColor=080A14" alt="View SocialSphere code" /></a>
 
-<a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-<td width="32%" align="center">
-
-<!-- PROJECT ILLUSTRATION
-     Add later:
-     ./assets/projects.png
--->
-
-<img
-  src="./assets/projects.png"
-  width="190"
-  alt="Full-stack project illustration"
-/>
-
-</td>
-
-</tr>
+</td></tr>
 </table>
 
-<br>
-
-
-<!-- PROJECT 02 -->
-
-<table>
-<tr>
-
-<td width="32%" align="center">
-
-<img
-  src="./assets/dietlab.png"
-  width="190"
-  alt="DietLab project illustration"
-/>
-
-</td>
-
-<td width="68%" valign="middle">
-
-### DietLab
-
-**Nutrition Consulting Platform**
-
-A production-oriented platform with reusable UI components, animations and a content publishing workflow for recipes and articles.
-
-<br>
-
-`Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
-
-<br><br>
-
-<a href="YOUR_DIETLAB_REPO_URL">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-8F82E8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
-<!-- PROJECT 03 -->
-
-<table>
-<tr>
-
-<td width="68%" valign="middle">
+<table width="100%" bgcolor="#0D1226">
+<tr><td>
 
 ### Telemedicine Platform
+**Multilingual healthcare app (prototype)**
 
-**Healthcare Application Prototype**
+Consultations, patient records, pharmacy and an AI symptom checker.
 
-A prototype exploring digital healthcare access through consultations, patient records and supporting healthcare workflows.
+- Low-bandwidth video consultations with **Jitsi / Agora** for rural connectivity
+- **Offline-first** patient records using encrypted SQLite
 
-<br>
+`React Native` `Expo` `Node.js` `MongoDB` `SQLite`
 
-`React Native` `Expo` `Node.js` `MongoDB`
+<a href="https://github.com/nishikachawladevhub-stack/Telemed-application"><img src="https://img.shields.io/badge/VIEW%20CODE-8F82E8?style=for-the-badge&logo=github&logoColor=080A14" alt="View Telemedicine code" /></a>
 
-<br><br>
-
-<a href="https://github.com/nishikachawladevhub-stack/Telemed-prototype">
-  <img
-    src="https://img.shields.io/badge/VIEW%20REPOSITORY-72DAE8?style=for-the-badge&logo=github&logoColor=080A14"
-    alt="View repository"
-  />
-</a>
-
-</td>
-
-<td width="32%" align="center">
-
-<img
-  src="./assets/telemedicine.png"
-  width="190"
-  alt="Telemedicine project illustration"
-/>
-
-</td>
-
-</tr>
+</td></tr>
 </table>
 
-<br>
-
-
-<!-- PROJECT 04 -->
-
-<table>
-<tr>
-
-<td width="32%" align="center">
-
-<img
-  src="./assets/traffic-ai.png"
-  width="180"
-  alt="AI traffic management illustration"
-/>
-
-</td>
-
-<td width="68%" valign="middle">
+<table width="100%" bgcolor="#0D1226">
+<tr><td>
 
 ### AI Traffic Management
+**Computer vision system (in progress)**
 
-**Upcoming Flagship Project**
+Real-time vehicle detection and lane-wise traffic analysis.
 
-An AI-based traffic management system exploring vehicle detection, traffic-density analysis and intelligent signal management.
+- YOLO-based detection and tracking for cars, bikes, buses and trucks
+- Machine learning to predict congestion and drive adaptive signal timing
 
-<br>
+`Python` `OpenCV` `YOLO` `Scikit-learn`
 
-`Python` `OpenCV` `YOLO` `Machine Learning`
+<img src="https://img.shields.io/badge/IN%20PROGRESS-151B35?style=for-the-badge&logoColor=D99A68&color=D99A68&labelColor=151B35" alt="In progress" />
 
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/IN%20PROGRESS-151B35?style=for-the-badge&logoColor=B5A8F5"
-  alt="In progress"
-/>
-
-</td>
-
-</tr>
+</td></tr>
 </table>
 
-<br><br>
-
-
-<!-- ============================================================= -->
-<!-- EXPERIENCE                                                    -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ EXPERIENCE ✦</h2>
-
-<p align="center">
-  <sub>Professional development experience.</sub>
-</p>
-
 <br>
 
-### Web Development Intern — DietLab
+<!-- ======================= EXPERIENCE ======================= -->
 
-`Remote` · `Dec 2025 — Jun 2026`
+<!-- <p align="center"><img src="./assets/h-experience.png" width="100%" alt="Experience" /></p> -->
+<h2 align="center">✦ EXPERIENCE ✦</h2>
 
-- Built and maintained a responsive nutrition consulting platform with reusable components and interactive sections.
-- Developed a recipe and blog publishing workflow for independent content management.
-- Contributed across frontend development, backend integration and content management.
+<table width="100%" bgcolor="#0D1226">
+<tr><td>
+
+### Web Development Intern, Diet Lab
+`Remote` &nbsp;·&nbsp; `Dec 2025 – Jun 2026`
+
+- Built a responsive nutrition consulting website with **6+ core sections**, reusable components and animations
+- Built a recipe and blog publishing system so the nutritionist can update content independently
 
 `Next.js` `React` `Tailwind CSS` `Framer Motion` `Node.js` `MongoDB`
 
-<br>
+</td></tr>
+</table>
 
----
+<table width="100%" bgcolor="#0D1226">
+<tr><td>
 
-### Web Development Intern — FootFlex
+### Web Development Intern, FootFlex
+`Remote` &nbsp;·&nbsp; `Oct 2025 – Dec 2025` &nbsp;·&nbsp; Dubai-based startup
 
-`Remote` · `Oct 2025 — Dec 2025`
-
-- Built a responsive B2B marketing website for a Dubai-based startup.
-- Developed product and category experiences with search and lead-generation workflows.
-- Contributed to internal tools for managing product and inquiry information.
+- Built a B2B marketing site with catalog, search and lead capture, improving inquiries by **around 30%**
+- Built a staff-only dashboard for inventory and inquiry tracking, speeding up follow-ups by **around 30%**
 
 `Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
-<br><br>
-
-
-<!-- ============================================================= -->
-<!-- DEVELOPER ACTIVITY                                            -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ DEVELOPER ACTIVITY ✦</h2>
-
-<p align="center">
-  <sub>A snapshot of my GitHub activity.</sub>
-</p>
+</td></tr>
+</table>
 
 <br>
 
-<p align="center">
+<!-- ======================= STACK ======================= -->
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=nishikachawladevhub-stack&show_icons=true&hide_border=true&bg_color=080A14&title_color=72DAE8&text_color=E7E5F7&icon_color=8F82E8&rank_icon=github"
-  height="165"
-  alt="GitHub statistics"
-/>
+<!-- <p align="center"><img src="./assets/h-stack.png" width="100%" alt="Stack" /></p> -->
+<h2 align="center">✦ STACK ✦</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikachawladevhub-stack&layout=compact&hide_border=true&bg_color=080A14&title_color=72DAE8&text_color=E7E5F7"
-  height="165"
-  alt="Top languages"
-/>
-
-</p>
-
-<br>
-
-<!-- CONTRIBUTION SNAKE WILL BE ADDED LATER -->
-
-<img
-  src="./assets/github-contribution-grid-snake.svg"
-  width="92%"
-  alt="GitHub contribution activity"
-/>
-
-<br><br>
-
-
-<!-- ============================================================= -->
-<!-- CURRENTLY LEARNING                                            -->
-<!-- ============================================================= -->
-
-<h2 align="center">✦ CURRENTLY LEARNING ✦</h2>
-
-<p align="center">
-  <sub>Areas I'm actively exploring.</sub>
-</p>
-
-<br>
-
-<table>
+<table width="100%">
 <tr>
-
-<td width="72%" valign="middle">
-
-### Exploring next
-
-`Applied AI` · `Computer Vision` · `System Design` · `Production Engineering`
-
-<br>
-
-Building toward software that is not only functional, but **reliable, scalable and genuinely useful.**
-
+<td width="22%" align="center" bgcolor="#0D1226"><b>Languages</b></td>
+<td bgcolor="#080A14">
+<img src="https://img.shields.io/badge/JAVASCRIPT-151B35?style=flat-square&logo=javascript&logoColor=72DAE8" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PYTHON-151B35?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+<img src="https://img.shields.io/badge/C++-151B35?style=flat-square&logo=cplusplus&logoColor=72DAE8" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-151B35?style=flat-square&logo=html5&logoColor=D99A68" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-151B35?style=flat-square&logo=css3&logoColor=8F82E8" alt="CSS3" />
 </td>
-
-<td width="28%" align="center">
-
-<!-- LEARNING ILLUSTRATION
-     Add later:
-     ./assets/learning.png
--->
-
-<img
-  src="./assets/learning.png"
-  width="160"
-  alt="Galaxy learning illustration"
-/>
-
+</tr>
+<tr>
+<td width="22%" align="center" bgcolor="#0D1226"><b>Frontend</b></td>
+<td bgcolor="#0A0D1B">
+<img src="https://img.shields.io/badge/REACT-151B35?style=flat-square&logo=react&logoColor=72DAE8" alt="React" />
+<img src="https://img.shields.io/badge/NEXT.JS-151B35?style=flat-square&logo=nextdotjs&logoColor=F1F3FA" alt="Next.js" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-151B35?style=flat-square&logo=tailwindcss&logoColor=72DAE8" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/REACT_NATIVE-151B35?style=flat-square&logo=react&logoColor=8F82E8" alt="React Native" />
+<img src="https://img.shields.io/badge/EXPO-151B35?style=flat-square&logo=expo&logoColor=F1F3FA" alt="Expo" />
+<img src="https://img.shields.io/badge/FRAMER_MOTION-151B35?style=flat-square&logo=framer&logoColor=B5A8F5" alt="Framer Motion" />
 </td>
-
+</tr>
+<tr>
+<td width="22%" align="center" bgcolor="#0D1226"><b>Backend &amp; Data</b></td>
+<td bgcolor="#080A14">
+<img src="https://img.shields.io/badge/NODE.JS-151B35?style=flat-square&logo=nodedotjs&logoColor=72DAE8" alt="Node.js" />
+<img src="https://img.shields.io/badge/EXPRESS-151B35?style=flat-square&logo=express&logoColor=F1F3FA" alt="Express" />
+<img src="https://img.shields.io/badge/MONGODB-151B35?style=flat-square&logo=mongodb&logoColor=72DAE8" alt="MongoDB" />
+<img src="https://img.shields.io/badge/POSTGRESQL-151B35?style=flat-square&logo=postgresql&logoColor=8F82E8" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLITE-151B35?style=flat-square&logo=sqlite&logoColor=B5A8F5" alt="SQLite" />
+</td>
+</tr>
+<tr>
+<td width="22%" align="center" bgcolor="#0D1226"><b>AI &amp; Vision</b></td>
+<td bgcolor="#0A0D1B">
+<img src="https://img.shields.io/badge/OPENCV-151B35?style=flat-square&logo=opencv&logoColor=72DAE8" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLO-151B35?style=flat-square&logoColor=A78BFA" alt="YOLO" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-151B35?style=flat-square&logo=scikitlearn&logoColor=D99A68" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/NUMPY-151B35?style=flat-square&logo=numpy&logoColor=72DAE8" alt="NumPy" />
+<img src="https://img.shields.io/badge/PANDAS-151B35?style=flat-square&logo=pandas&logoColor=B5A8F5" alt="Pandas" />
+</td>
+</tr>
+<tr>
+<td width="22%" align="center" bgcolor="#0D1226"><b>Tools</b></td>
+<td bgcolor="#080A14">
+<img src="https://img.shields.io/badge/GIT-151B35?style=flat-square&logo=git&logoColor=D99A68" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-151B35?style=flat-square&logo=github&logoColor=F1F3FA" alt="GitHub" />
+<img src="https://img.shields.io/badge/POSTMAN-151B35?style=flat-square&logo=postman&logoColor=D99A68" alt="Postman" />
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-151B35?style=flat-square&logo=googlecloud&logoColor=72DAE8" alt="Google Cloud" />
+</td>
+</tr>
+<tr>
+<td width="22%" align="center" bgcolor="#0D1226"><b>Exploring</b></td>
+<td bgcolor="#0A0D1B">
+<img src="https://img.shields.io/badge/APPLIED_AI-151B35?style=flat-square&logoColor=D99A68&color=151B35" alt="Applied AI" />
+<img src="https://img.shields.io/badge/COMPUTER_VISION-151B35?style=flat-square&logoColor=D99A68&color=151B35" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-151B35?style=flat-square&logoColor=D99A68&color=151B35" alt="System Design" />
+</td>
 </tr>
 </table>
 
+<br>
+
+<!-- ======================= CONNECT ======================= -->
+
+<!-- <p align="center"><img src="./assets/h-connect.png" width="100%" alt="Connect" /></p> -->
+<h2 align="center">✦ CONNECT ✦</h2>
+
+<table width="100%" bgcolor="#0D1226">
+<tr><td align="center">
+
+<br>
+
+**Building something interesting? I'd like to hear about it.**
+
+Open to software engineering roles and internships.
+
+<br>
+
+<a href="https://www.linkedin.com/in/nishika-chawla-a44704295/"><img src="https://img.shields.io/badge/LINKEDIN-72DAE8?style=for-the-badge&logo=linkedin&logoColor=080A14" alt="LinkedIn" /></a>
+<a href="mailto:nishikachawla.devhub@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8F82E8?style=for-the-badge&logo=gmail&logoColor=080A14" alt="Email" /></a>
+<a href="./resume.pdf"><img src="https://img.shields.io/badge/RESUME-D99A68?style=for-the-badge&logo=readme&logoColor=080A14" alt="Resume" /></a>
+
 <br><br>
 
+</td></tr>
+</table>
 
-<!-- ============================================================= -->
-<!-- FOOTER                                                        -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <sub>✦ Build · Learn · Ship ✦</sub>
-</p>
+<p align="center"><sub>✦ Build · Learn · Ship ✦</sub></p>
