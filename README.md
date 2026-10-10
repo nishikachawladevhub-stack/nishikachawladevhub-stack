@@ -87,7 +87,7 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 
 </td>
 
-<td width="38%" align="center">
+<td width="50%" align="center">
 
 <!-- ABOUT ILLUSTRATION
      Add later:
