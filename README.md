@@ -358,7 +358,7 @@ I'm always open to connecting with developers, founders, teams and recruiters wo
 <!-- ============================================================= -->
 
 <p align="center">
-  <img src="./h-projects(1)" width="100%" alt="Featured Projects" />
+  <img src="./preoject" width="100%" alt="Featured Projects" />
 </p>
 
 <!-- PROJECT 01 -->
