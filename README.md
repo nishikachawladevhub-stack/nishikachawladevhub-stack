@@ -106,10 +106,12 @@ Software Engineering · Full-Stack · Internships · Full-Time Roles
 <!-- CONNECT                                                       -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
+<p align="center">
+  <img src="./h-connect.svg" width="100%" alt="Tech Stack" />
+</p>
 
 <p align="center">
-  <sub>Open to interesting products, teams and software engineering opportunities.</sub>
+  <sub>Technologies I use to design, build and ship.</sub>
 </p>
 
 
