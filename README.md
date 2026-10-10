@@ -14,8 +14,6 @@
   />
 </p>
 
-<br>
-
 
 <!-- ======================== SOCIAL BAR ========================== -->
 
@@ -51,8 +49,6 @@
 
 </p>
 
-<br>
-
 
 <!-- ============================================================= -->
 <!-- ABOUT                                                         -->
@@ -64,54 +60,44 @@
   <sub>Computer Science · Full-Stack Development · Applied AI</sub>
 </p>
 
-<br>
 
 <table>
 <tr>
 
 <td width="62%" valign="middle">
 
-### Hi, I'm Nishika.
+Hi, I'm Nishika.
+I'm a final-year Computer Science Engineering student focused on building practical, user-facing software.
+I work across the stack with React, Next.js, Node.js and MongoDB, and I'm exploring applied AI and computer vision to build more intelligent products.
+I enjoy taking ideas from concept → implementation → deployment and continuously improving how I build and ship software.
 
-I'm a **final-year Computer Science Engineering student** focused on building practical, user-facing software.
-
-I work across the stack with **React, Next.js, Node.js and MongoDB**, and I'm exploring **applied AI and computer vision** to build more intelligent products.
-
-I enjoy taking ideas from **concept → implementation → deployment** and continuously improving how I build and ship software.
-
-<br>
-
-**Open to**
-
-`Software Engineering` · `Full-Stack` · `Internships` · `Full-Time Roles`
-
+Open to
+Software Engineering · Full-Stack · Internships · Full-Time Roles
 </td>
 
 <td width="50%" align="center">
 
 <!-- ABOUT ILLUSTRATION
      Add later:
-     ./assets/about.png
+     ./know_me.png
 -->
 
 <img
-  src="./assets/about.png"
+  src="./know_me.png"
   width="270"
   alt="Cozy anime developer illustration"
 />
-
 </td>
 
 </tr>
 </table>
 
-<br>
 
 <p align="center">
   <sub>✦ turning ideas into things people can actually use ✦</sub>
 </p>
 
-<br><br>
+
 
 
 <!-- ============================================================= -->
@@ -124,7 +110,6 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
   <sub>Open to interesting products, teams and software engineering opportunities.</sub>
 </p>
 
-<br>
 
 <table>
 <tr>
@@ -133,24 +118,20 @@ I enjoy taking ideas from **concept → implementation → deployment** and cont
 
 <!-- CONNECT ILLUSTRATION
      Add later:
-     ./assets/connect.png
+     ./lets_connect.png
 -->
 
 <img
-  src="./assets/connect.png"
+  src="./lets_connect.png"
   width="190"
   alt="Cozy developer illustration"
 />
-
 </td>
 
 <td width="65%" valign="middle">
 
-### Have an interesting problem to solve?
-
-I'm always open to connecting with **developers, founders, teams and recruiters** working on interesting products.
-
-<br>
+Have an interesting problem to solve?
+I'm always open to connecting with developers, founders, teams and recruiters working on interesting products.
 
 <a href="YOUR_LINKEDIN_URL">
   <img
@@ -178,7 +159,7 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
 </tr>
 </table>
 
-<br><br>
+
 
 
 <!-- ============================================================= -->
@@ -191,7 +172,6 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
   <sub>Technologies I use to design, build and ship.</sub>
 </p>
 
-<br>
 
 <table>
 
@@ -363,7 +343,6 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
 
 </table>
 
-<br>
 
 <p align="center">
   <sub>
@@ -371,7 +350,7 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
   </sub>
 </p>
 
-<br><br>
+
 
 
 <!-- ============================================================= -->
@@ -384,8 +363,6 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
   <sub>A selection of things I've built.</sub>
 </p>
 
-<br>
-
 
 <!-- PROJECT 01 -->
 
@@ -394,17 +371,13 @@ I'm always open to connecting with **developers, founders, teams and recruiters*
 
 <td width="68%" valign="middle">
 
-### Pictogram
-
-**Full-Stack Social Platform**
-
+Pictogram
+Full-Stack Social Platform
 A social networking application focused on authentication, content creation, image uploads and a dynamic feed experience.
 
-<br>
+React Node.js Express MongoDB
 
-`React` `Node.js` `Express` `MongoDB`
 
-<br><br>
 
 <a href="https://github.com/nishikachawladevhub-stack/SocialSphere">
   <img
@@ -419,21 +392,18 @@ A social networking application focused on authentication, content creation, ima
 
 <!-- PROJECT ILLUSTRATION
      Add later:
-     ./assets/projects.png
+     ./pictogram.png
 -->
 
 <img
-  src="./assets/projects.png"
+  src="./pictogram.png"
   width="190"
   alt="Full-stack project illustration"
 />
-
 </td>
 
 </tr>
 </table>
-
-<br>
 
 
 <!-- PROJECT 02 -->
@@ -443,27 +413,19 @@ A social networking application focused on authentication, content creation, ima
 
 <td width="32%" align="center">
 
-<img
-  src="./assets/dietlab.png"
-  width="190"
-  alt="DietLab project illustration"
-/>
+<!-- DietLab illustration can be added after uploading dietlab.png. -->
 
 </td>
 
 <td width="68%" valign="middle">
 
-### DietLab
-
-**Nutrition Consulting Platform**
-
+DietLab
+Nutrition Consulting Platform
 A production-oriented platform with reusable UI components, animations and a content publishing workflow for recipes and articles.
 
-<br>
+Next.js React Tailwind CSS Node.js MongoDB
 
-`Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
 
-<br><br>
 
 <a href="YOUR_DIETLAB_REPO_URL">
   <img
@@ -477,8 +439,6 @@ A production-oriented platform with reusable UI components, animations and a con
 </tr>
 </table>
 
-<br>
-
 
 <!-- PROJECT 03 -->
 
@@ -487,17 +447,13 @@ A production-oriented platform with reusable UI components, animations and a con
 
 <td width="68%" valign="middle">
 
-### Telemedicine Platform
-
-**Healthcare Application Prototype**
-
+Telemedicine Platform
+Healthcare Application Prototype
 A prototype exploring digital healthcare access through consultations, patient records and supporting healthcare workflows.
 
-<br>
+React Native Expo Node.js MongoDB
 
-`React Native` `Expo` `Node.js` `MongoDB`
 
-<br><br>
 
 <a href="https://github.com/nishikachawladevhub-stack/Telemed-prototype">
   <img
@@ -511,17 +467,14 @@ A prototype exploring digital healthcare access through consultations, patient r
 <td width="32%" align="center">
 
 <img
-  src="./assets/telemedicine.png"
+  src="./telemed.png"
   width="190"
   alt="Telemedicine project illustration"
 />
-
 </td>
 
 </tr>
 </table>
-
-<br>
 
 
 <!-- PROJECT 04 -->
@@ -531,39 +484,30 @@ A prototype exploring digital healthcare access through consultations, patient r
 
 <td width="32%" align="center">
 
-<img
-  src="./assets/traffic-ai.png"
-  width="180"
-  alt="AI traffic management illustration"
-/>
+<!-- AI traffic illustration can be added after uploading traffic-ai.png. -->
 
 </td>
 
 <td width="68%" valign="middle">
 
-### AI Traffic Management
-
-**Upcoming Flagship Project**
-
+AI Traffic Management
+Upcoming Flagship Project
 An AI-based traffic management system exploring vehicle detection, traffic-density analysis and intelligent signal management.
 
-<br>
+Python OpenCV YOLO Machine Learning
 
-`Python` `OpenCV` `YOLO` `Machine Learning`
 
-<br><br>
 
 <img
   src="https://img.shields.io/badge/IN%20PROGRESS-151B35?style=for-the-badge&logoColor=B5A8F5"
   alt="In progress"
 />
-
 </td>
 
 </tr>
 </table>
 
-<br><br>
+
 
 
 <!-- ============================================================= -->
@@ -576,33 +520,21 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
   <sub>Professional development experience.</sub>
 </p>
 
-<br>
 
-### Web Development Intern — DietLab
-
-`Remote` · `Dec 2025 — Jun 2026`
-
+Web Development Intern — DietLab
+Remote · Dec 2025 — Jun 2026
 - Built and maintained a responsive nutrition consulting platform with reusable components and interactive sections.
 - Developed a recipe and blog publishing workflow for independent content management.
 - Contributed across frontend development, backend integration and content management.
+Next.js React Tailwind CSS Framer Motion Node.js MongoDB
 
-`Next.js` `React` `Tailwind CSS` `Framer Motion` `Node.js` `MongoDB`
-
-<br>
-
----
-
-### Web Development Intern — FootFlex
-
-`Remote` · `Oct 2025 — Dec 2025`
-
+Web Development Intern — FootFlex
+Remote · Oct 2025 — Dec 2025
 - Built a responsive B2B marketing website for a Dubai-based startup.
 - Developed product and category experiences with search and lead-generation workflows.
 - Contributed to internal tools for managing product and inquiry information.
+Next.js React Tailwind CSS Node.js MongoDB
 
-`Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
-
-<br><br>
 
 
 <!-- ============================================================= -->
@@ -615,7 +547,6 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
   <sub>A snapshot of my GitHub activity.</sub>
 </p>
 
-<br>
 
 <p align="center">
 
@@ -624,26 +555,17 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
   height="165"
   alt="GitHub statistics"
 />
-
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishikachawladevhub-stack&layout=compact&hide_border=true&bg_color=080A14&title_color=72DAE8&text_color=E7E5F7"
   height="165"
   alt="Top languages"
 />
-
 </p>
 
-<br>
 
-<!-- CONTRIBUTION SNAKE WILL BE ADDED LATER -->
+<!-- Contribution snake can be added after uploading github-contribution-grid-snake.svg. -->
 
-<img
-  src="./assets/github-contribution-grid-snake.svg"
-  width="92%"
-  alt="GitHub contribution activity"
-/>
 
-<br><br>
 
 
 <!-- ============================================================= -->
@@ -656,42 +578,36 @@ An AI-based traffic management system exploring vehicle detection, traffic-densi
   <sub>Areas I'm actively exploring.</sub>
 </p>
 
-<br>
 
 <table>
 <tr>
 
 <td width="72%" valign="middle">
 
-### Exploring next
+Exploring next
+Applied AI · Computer Vision · System Design · Production Engineering
 
-`Applied AI` · `Computer Vision` · `System Design` · `Production Engineering`
-
-<br>
-
-Building toward software that is not only functional, but **reliable, scalable and genuinely useful.**
-
+Building toward software that is not only functional, but reliable, scalable and genuinely useful.
 </td>
 
 <td width="28%" align="center">
 
 <!-- LEARNING ILLUSTRATION
      Add later:
-     ./assets/learning.png
+     ./learning.png
 -->
 
 <img
-  src="./assets/learning.png"
+  src="./learning.png"
   width="160"
   alt="Galaxy learning illustration"
 />
-
 </td>
 
 </tr>
 </table>
 
-<br><br>
+
 
 
 <!-- ============================================================= -->
