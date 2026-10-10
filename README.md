@@ -517,7 +517,9 @@ Python OpenCV YOLO Machine Learning
 <!-- EXPERIENCE                                                    -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ EXPERIENCE ✦</h2>
+<p align="center">
+  <img src="./experience.svg" width="85%" alt="exp" />
+</p>
 
 <p align="center">
   <sub>Professional development experience.</sub>
