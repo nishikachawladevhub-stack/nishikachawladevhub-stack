@@ -54,10 +54,12 @@
 <!-- ABOUT                                                         -->
 <!-- ============================================================= -->
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<p align="center">
+  <img src="./h-about.svg" width="100%" alt="Tech Stack" />
+</p>
 
 <p align="center">
-  <sub>Computer Science · Full-Stack Development · Applied AI</sub>
+  <sub>Technologies I use to design, build and ship.</sub>
 </p>
 
 
